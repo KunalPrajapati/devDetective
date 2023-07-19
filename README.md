@@ -1,2 +1,2 @@
 # DevDetective
-Dev Detective project made using HTML CSS and JAVASCRIPT uses an API from GitHub to search and show the profile
+Dev Detective project is made using HTML CSS and JAVASCRIPT that uses an API from GitHub to search the github profiles and and display them
